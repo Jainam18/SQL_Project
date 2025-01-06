@@ -1,0 +1,11 @@
+Python - Data Cleaning
+i. Check for null values and deal with them
+ii. Delete the columns which are completely irrelevant and has no use
+iii. Check for duplicates if there are delete them
+iv. Check if there are very big outliers that can result in suffering of analysis
+
+SQL - Data Analysis
+Answer all the questions which you have written down through your analysis
+
+Tableau - Data Visualization and dashboard making
+Prepare interactive and lively plots and dashboard which can be used for showcase purpose
