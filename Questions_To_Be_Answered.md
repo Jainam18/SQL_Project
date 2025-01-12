@@ -31,13 +31,4 @@
 
 * What is the effect of fuel prices on Walmart’s sales trends?
 
-* How does the seasonality of sales differ across product categories?
-
-* Do larger stores (Type A) always generate more revenue, or are there exceptions?
-
-* How do sales trends vary before and after major economic events (e.g., recessions, inflation spikes)?
-
-* What is the best time to introduce markdowns for maximum sales impact?
-
-* What is the effect of extreme weather events (storms, hurricanes) on Walmart sales?
-
+* Which are the top three perfomring departments across all the different stores
